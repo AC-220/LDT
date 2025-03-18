@@ -1,7 +1,7 @@
 # LDT
 Lexical Decision Task Python Program
 
-The main.py file implements a lexical decision task where a participant is presented with words and must decide if they are valid English words:
+The main.py file implements a lexical decision task where a participant is presented with words and must decide if they are valid English words. The project contains 3 files which cover different aspects of the game. 
 
 Imports: 
   WordFileReader from filereader module: Reads words from a file.
